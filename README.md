@@ -1,4 +1,4 @@
 # repo-check
 checking how it works
 
-Auther : Adarsh
+Auther : Adarsh (Verma)
